@@ -13,4 +13,4 @@ Finetune only last layer of TinyBert
 
 ## Training Results
 
-Best model i hashemi_16000steps with Error rate: 0.1569444067612665
+Best model i hashemi_52000steps with Error rate: 0.13823696991073608
