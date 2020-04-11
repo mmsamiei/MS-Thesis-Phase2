@@ -13,5 +13,5 @@ Finetune both layers of TinyBert (Except embedding layer)
 
 ## Training Results
 
-Best model is bagheri_14000steps with Error rate: 0.11520199690696475
+Best model is bagheri_30000steps with Error rate: 0.10485796456575414
 
